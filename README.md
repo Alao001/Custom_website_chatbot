@@ -3,3 +3,6 @@ This project is a custom chatbot designed to help students easily access accurat
 
 Project Overview
 This chatbot is built using the Langchain library for natural language processing, FAISS for efficient similarity search, and OpenAI's GPT model to answer queries. It uses Streamlit as the frontend framework to provide an easy-to-use interface for students. The chatbot retrieves data from specific Nigerian university websites, parses it, and responds to user queries by providing relevant answers along with source links.
+
+![Screenshot custom chatbot](https://github.com/user-attachments/assets/2a670408-55fe-49a5-a51c-14de21b70117)
+
